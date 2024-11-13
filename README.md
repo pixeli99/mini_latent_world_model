@@ -14,5 +14,5 @@ pip install -r requirements.txt
 ## Usage
 To train a model using the DreamerV3's world model in the MetaDrive environment, run:
 ```
-python train.py
+python main.py
 ```
